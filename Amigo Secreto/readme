@@ -1,0 +1,36 @@
+# 🎉 Aplicação de Sorteio de Amigo Secreto
+
+Este é um simples aplicativo web para adicionar amigos a uma lista e sortear um nome aleatório como "Amigo Secreto". 
+
+## 🚀 Funcionalidades
+
+✅ **Adicionar amigos** a uma lista.  
+✅ **Evita nomes duplicados** na lista.  
+✅ **Remover amigos** da lista com um botão ❌.  
+✅ **Sortear um amigo aleatoriamente** e exibir o resultado na tela.  
+
+## 📜 Como usar
+
+1. Digite o nome de um amigo no campo de entrada.  
+2. Clique no botão **Adicionar** para incluir o nome na lista.  
+3. Para remover um nome, clique no botão ❌ ao lado dele.  
+4. Clique em **Sortear Amigo** para escolher aleatoriamente um nome da lista.  
+
+## 🛠️ Tecnologias utilizadas
+
+- **HTML** - Estrutura da página.  
+- **CSS** - Estilização com variáveis e efeitos visuais.  
+- **JavaScript** - Lógica para adicionar, remover e sortear amigos.  
+
+## 📂 Estrutura do projeto
+
+
+## 📌 Melhorias futuras
+
+- 🎨 Melhorar a interface com animações.  
+- 💾 Salvar os amigos adicionados no localStorage.  
+- 📱 Tornar a aplicação mais responsiva para dispositivos móveis.  
+
+---
+
+📌 **Desenvolvido por [Ronaldo]** 🚀  
